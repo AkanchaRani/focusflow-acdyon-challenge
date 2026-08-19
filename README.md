@@ -2,6 +2,11 @@
 
 A responsive frontend concept for the Acdyon Technologies Premium Home Page challenge.
 
+## Live submission
+
+- **Live site:** [focusflow-acdyon-challenge-lime.vercel.app](https://focusflow-acdyon-challenge-lime.vercel.app)
+- **Repository:** [AkanchaRani/focusflow-acdyon-challenge](https://github.com/AkanchaRani/focusflow-acdyon-challenge)
+
 ## Run locally
 
 Open `index.html` in a browser, or use any static-site preview tool. No build step or package installation is required.
